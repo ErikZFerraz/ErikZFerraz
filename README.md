@@ -76,7 +76,7 @@
 </picture>
 </div>
 
-
- <h2 align="left"> Git Activity Timeline </h2>
+<div align="center">
 
   ![GitHub Metrics](https://raw.githubusercontent.com/ErikZFerraz/ErikZFerraz/main/metrics.svg)
+</div>
