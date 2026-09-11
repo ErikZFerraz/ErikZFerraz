@@ -15,8 +15,8 @@
   </td>
   <td width="45%" align="center">
 
-<img src="https://64.media.tumblr.com/72d9b6fc30d4eb5f3a7cb99913bff8c2/08ee4c9f524f3079-d2/s640x960/0ba0164c08627ada71f3a12860082d5e5a67bf39.gif"
-     width="200px">
+  <div dir="auto"><a target="_blank" rel="noopener noreferrer"><img src="IMG/COMPUTER-SCIENCE.gif" width="200" align="center" style="max-width: 100%;"></a></div>
+
 
   </td>
   </tr>
