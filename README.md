@@ -6,9 +6,11 @@
   <tr>
     <td width="55%" valign="top">
 
-- I am currently studying **Systems Analysis and Development** at [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
-- Constantly growing and improving my skills in tech 🤖
-- You can explore more about me and some of my projects on my [portfólio](https://github.com/ErikZFerraz/Portfolio-ErikZFerraz) ✨
+- 🎓 Graduated in **Systems Analysis and Development** from [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
+- 💻 Passionate about technology, software development, and continuous learning;
+- 🚀 Always improving my skills and exploring new tools, technologies, and challenges;
+- 📂 Check out my projects on my [GitHub Portfolio](https://github.com/ErikZFerraz/Portfolio-ErikZFerraz);
+- 🌐 Learn more about me and my work on my [personal portfolio](https://portfolio-web-erik-z-ferraz.vercel.app/).
 
   </td>
   <td width="45%" align="center">
